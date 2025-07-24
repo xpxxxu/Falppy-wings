@@ -1,3 +1,3 @@
 # Falppy-wings
-Inspired by falppy bird
+Inspired by flappy bird
 https://xpxxxu.github.io/Falppy-wings/
